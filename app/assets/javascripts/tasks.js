@@ -70,3 +70,5 @@ $(function() {
   });
 
 });
+
+alert("please help me");
