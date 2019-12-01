@@ -1,24 +1,13 @@
-# README
+# ToDo
+### [Visit the deployed site now!](https://todoster-enrique-cerna.herokuapp.com/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A todo application with a fluid user interface allowing users to rapidly add dynamic content.
 
-Things you may want to cover:
+Completed Using:
+- JavaScript
+- HTML
+- CSS
+- GitHub (version control)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### User Interface:
+![Image of Root Page](https://github.com/SleepyLoki/todo/blob/master/app/assets/images/todo.png)
